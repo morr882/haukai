@@ -6,7 +6,7 @@
 /* Style the header */
 .header {
     background-color: black;
-    font-size: 8vw;
+    font-size: 2vw;
     color: white;
     text-align: center;
     padding: 0.5vw;
@@ -54,7 +54,7 @@ a:active { /* active linke */
     padding: 15px;
     text-align: center;
     background-color: white;
-    font-size: 2vw;   
+    font-size: 1.5vw;   
 }
 
 .column2 {
@@ -63,7 +63,7 @@ a:active { /* active linke */
     padding: 15px;
     text-align: left;
     background-color: white;
-    font-size: 2vw;
+    font-size: 1.5vw;
 }
 
 /* clear floats after the columns */
