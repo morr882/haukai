@@ -1,7 +1,4 @@
-/* Universal box sizing */
-* {
-    box-sizing: border-box;
-}
+
 
 /* Style the header */
 .header {
@@ -44,13 +41,6 @@ a:active { /* active linke */
     }
 }
 
-/*Style footer*/
-.footer {
-    background-color: gray;
-    text-align: center;
-    padding: 0.2vw;
-    font-size: 1vw;
-}
 
 /* style for images */
 img {
@@ -59,16 +49,7 @@ img {
 }
 
 /*container for embedded links */
-.container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
-.container2 {
-    position: relative;
-    
-    padding-top: 56.25%;
-}
+
 
 /* frame for embedded links */
 .iframe {
