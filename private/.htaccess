@@ -1,5 +1,5 @@
 AuthType Basic
 AuthName "Restricted access"
-AuthUserFile "/private/staffPage"
+AuthUserFile "/private/.htaccess"
 Require valid-user
 Staff:7dblfdrkz9JNQ
