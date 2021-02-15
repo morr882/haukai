@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Restricted access"
+AuthUserFile "/private/.htpassword"
+Require valid-user
+Staff:7dblfdrkz9JNQ

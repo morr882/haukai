@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="css/haukai-css.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact Page</title>
+    </head>
+    <body>
+        <!--This is our main header that is used across all the pages of our website -->
+        <header class="header">
+            <h1>Haukai Restaurant</h1>
+        </header>
+        <!-- Here is the nav HTML semantic element for the navigation menu-->
+        <nav class="topnav">
+            <a href="Haukai Restaurant.html">Home</a>
+            <a href="AboutUs.html">About Us</a>
+            <a href="Hours.html">Hours</a>
+            <a href="Menu.html">Menu</a>
+            <a href="Reservations.html">Reservations</a>
+            <a href="Contact.html">Contact</a>  
+            <a href="private/staffPage.html">Staff Only</a>
+        </nav>
+    <!-- Here is our page's main content -->
+    <main>
+        
+    </main>
+    <!-- This the main footer that is used across all the pages of our website -->
+    <footer class="footer">
+        <p><class="copyright">© Copyright 2020 by Haukai Restaurant. All rights reserved.<br><a href="PrivacyStatement.html">Privacy Statement</a></p>
+    </footer>
+</body>
+</html>
