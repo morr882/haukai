@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Restricted access"
+AuthUserFile "/private/.htaccess"
+Require valid-user
+Staff:7dblfdrkz9JNQ
