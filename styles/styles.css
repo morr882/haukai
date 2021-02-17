@@ -12,22 +12,6 @@
     padding: 0.5vw;
 }
 
-/* Style the top navigation bar */
-.topnav {
-    overflow: hidden;
-    background-color: rgba(39, 94, 94, 0.363);
-    font-size: 1.5vw;
-}
-
-/* Topnav links */
-.topnav a {
-    float: left;
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 1vw 1vw;
-    
-}
 /*Code for altering text colour of the links */
 a:link { /* unvisited link */
     color: #1174b6;
